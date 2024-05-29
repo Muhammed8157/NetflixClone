@@ -1,6 +1,6 @@
 # netflix_clone
 
-A new Flutter project.
+An old flutter app in my laptop. My Journey Started from this app
 
 ## Getting Started
 
